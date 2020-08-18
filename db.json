@@ -1,6 +1,5 @@
 {
-  "demo-events": 
-[{
+  "demo-events": [{
   "datetime": "2020/09/16",
   "name": "Event Production",
   "url": ""
@@ -81,20 +80,10 @@
   "name": "Ubercart",
   "url": ""
 }],
-  "tabs": [
-        {
-            "title": "Parcel",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent odio mi, condimentum eget pellentesque et, vestibulum nec lectus. Suspendisse venenatis justo ut lacus fringilla porta. Curabitur vitae dictum magna. Sed posuere quam ultrices ligula dignissim maximus. Nulla et quam et est elementum condimentum. Nulla luctus magna laoreet urna elementum, in volutpat purus ornare. Etiam sagittis pretium turpis, non posuere lorem semper id. Duis sed consectetur nisl, at congue sapien. Phasellus id metus dolor."
-        },
-        {
-            "title": "TypeScript",
-            "content": "Donec lacus nulla, tincidunt eget pharetra in, bibendum nec nulla. Proin venenatis erat vitae dapibus interdum. Fusce placerat tortor eu laoreet rhoncus. Duis felis diam, ullamcorper id lacus non, ultrices aliquam elit. Ut consequat suscipit magna non egestas. Pellentesque et malesuada lacus. Integer id accumsan urna. Cras ut libero sollicitudin, faucibus nulla a, gravida magna. Ut eu mollis lorem. Nulla velit est, pellentesque vitae leo imperdiet, laoreet fringilla orci. Mauris urna ligula, laoreet non mauris at, accumsan dapibus sapien. Proin nec ultrices leo."
-        },
-        {
-            "title": "React",
-            "content": "Cras a sollicitudin magna. Vivamus commodo nec mauris at consequat. Nulla odio velit, aliquam at pretium vitae, tincidunt nec erat. Pellentesque eu tellus eros. Duis rutrum lacus at magna faucibus, sed blandit sapien ullamcorper. Suspendisse ultricies tellus felis, in ultricies neque interdum vel. Duis bibendum ultricies velit, id rutrum mi efficitur sit amet. Vestibulum suscipit arcu nec blandit placerat. Pellentesque et ipsum commodo, consectetur ex nec, semper lacus. Sed tristique convallis mi ac finibus. Integer in lectus elementum purus pharetra sollicitudin. Nullam porttitor ante elementum diam pellentesque finibus."
-        }
-    ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "typicode"
   }
